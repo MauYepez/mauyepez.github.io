@@ -21,6 +21,7 @@ scroll-padding-top: 3.5rem;
     --p-font: 1.1rem;
 }
 
+
 body {
     background: var(--bg-color);
     color: var(--text-color);
@@ -113,7 +114,7 @@ section {
 .home {
     height: 100vh;
     width: 100%;
-    background: url(../img/peace.png);
+    background: black;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -429,6 +430,12 @@ footer p {
     z-index: 10001;
     cursor: pointer;
     display: inline;
+}
+
+.itchio p 
+{
+    margin-top: 20px;
+    font-size: 14px;
 }
 
 
