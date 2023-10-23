@@ -15,7 +15,7 @@ scroll-padding-top: 3.5rem;
     --text-color: #fff;
     --second-text-color:#c6c9d8bf;
     --third-text-color:#101010;
-    --main-color: #b5e853;
+    --main-color: #20dbd8;
     --big-font: 5.3rem;
     --h2-font: 4.2rem;
     --p-font: 1.1rem;
@@ -418,7 +418,7 @@ footer p {
 
 #github-icon {
     font-size: 32px;
-    color: #b5e853;
+    color:  #20dbd8;
     z-index: 10001;
     cursor: pointer;
     margin-bottom: 25px;
@@ -426,7 +426,7 @@ footer p {
 
 #linkedin-icon {
     font-size: 32px;
-    color: #b5e853;
+    color:  #20dbd8;
     z-index: 10001;
     cursor: pointer;
     display: inline;
